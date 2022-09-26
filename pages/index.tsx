@@ -15,7 +15,7 @@ const Home: NextPage = () => {
     <div className="bg-[#191919] text-white h-screen snap-y snap-mandatory overflow-y-scroll z-0 overflow-x-hidden scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#1DA4AD]">
       <Head>
         <title>Samuel Serra | Portfolio</title>
-        <link rel="shortcut icon" href="logo.png" />
+        <link rel="shortcut icon" href="Logo.png" />
       </Head>
 
       <Header />
