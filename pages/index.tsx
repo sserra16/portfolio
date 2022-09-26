@@ -40,7 +40,6 @@ const Home: NextPage = () => {
         <Projects />
       </section>
 
-      {/* Contact Me */}
       <section id="contact" className="snap-start">
         <ContactMe />
       </section>

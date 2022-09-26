@@ -31,7 +31,7 @@ export default function ContactMe({}: Props) {
           </span>
         </h4>
 
-        <div className="space-y-8 ">
+        <div className="space-y-8">
           <div className="flex items-center space-x-5 justify-center">
             <PhoneIcon className="text-[#1DA4AD] h-7 w-7 animate-pulse" />
             <p className="text-xl">+55 (31)9 8830-0875</p>
@@ -49,7 +49,7 @@ export default function ContactMe({}: Props) {
 
           <form
             onSubmit={handleSubmit(onSubmit)}
-            className="flex flex-col space-y-2 w-fit mx-auto">
+            className="flex flex-col space-y-2 px-10 w-fit mx-auto">
             <div className="flex space-x-2">
               <input
                 {...register("name")}

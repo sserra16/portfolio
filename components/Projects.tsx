@@ -19,8 +19,7 @@ export default function Projects({}: Props) {
           gorjeta
         </Project>
         <Project project={{ title: "LetmeAsk", srcImg: "letmeask.png" }}>
-          LetmeAsk foi um site feito em um evento de programação da RocketSeat
-          onde foi feito um site para criar salas nas quais temos professores e
+          LetmeAsk foi um site feito para criar salas nas quais temos professores e
           estudantes de programação, nos quais tiram dúvidas e aprendem cada vez
           mais sobre esse universo incrível.
         </Project>
