@@ -51,7 +51,7 @@ const Home: NextPage = () => {
             <div className="h-12 w-14 bg-white/10 rounded-full flex items-center justify-center grayscale hover:grayscale-0 cursor-pointer">
               <img
                 className="h-14 w-14 rounded-full filter grayscale hover:grayscale-0"
-                src="logo.png"
+                src="Logo.png"
                 alt=""
               />
             </div>
